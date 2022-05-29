@@ -32,3 +32,32 @@ null102目前居住在加利福尼亚著名的墨西哥区凡内斯，并在充�
 若有正经事和电波请联系null102@onclub.golf，或加QQ：3342830067，如果你是Calarts学生或者盎撒人，请联系yifanlu@alum.calarts.edu
 
 如果想加入高尔夫烧烤粉粉丝线上论坛，请先发邮件至null102@onclub.golf申请
+
+# Welcome to Yifan Lu's Github
+
+Yifan Lu is currently residing at Van Nuys, CA, and he goes to California Institute of the Arts for Music Tech Degree.
+
+## Skills
+
+Yifan Lu (wants to) specialize in visual, vst and audio software development, and audio hardware tinkering
+
+## Tools
+
+Tools I use are wack:
+
+- Reaper (JSFX)
+- Renoise (Lua)
+- Max/Msp/Jitter
+- Processing
+- TouchDesigner
+- Wwise
+- Unity
+- JUCE API
+
+## How to find me
+
+to see my works, please go to yifanlu.page
+
+for contact, please email yifanlu@alum.calarts.edu
+
+
