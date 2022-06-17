@@ -27,7 +27,7 @@ null102目前居住在加利福尼亚著名的墨西哥区凡内斯，并在充�
 
 个人日常请移至[bbq.golf](https://bbq.golf)查看
 
-个人主页为 https://null102.zone ，给盎撒人看的主页是 https://yifanlu.page
+个人主页为 http://null102.zone ，给盎撒人看的主页是 https://yifanlu.page
 
 若有正经事和电波请联系null102@onclub.golf，或加QQ：3342830067，如果你是Calarts学生或者盎撒人，请联系yifanlu@alum.calarts.edu
 
