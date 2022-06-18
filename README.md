@@ -23,15 +23,11 @@ null102目前居住在加利福尼亚著名的墨西哥区凡内斯，并在充�
 
 整活视频请移至[bilibili](https://space.bilibili.com/15696187)
 
-隶属于开悟体验馆，有关于开悟体验馆请移至onclub.golf查看
-
 个人日常请移至[bbq.golf](https://bbq.golf)查看
 
-个人主页为 http://null102.zone ，给盎撒人看的主页是 https://yifanlu.page
+中文主页 http://null102.zone ，英文主页 https://yifanlu.page
 
 若有正经事和电波请联系null102@onclub.golf，或加Discord：null102#8852，或者yifanlu@alum.calarts.edu
-
-如果想加入高尔夫烧烤粉粉丝线上论坛，请发邮件至AGolfGardenBBQ@bbq.golf申请
 
 # Welcome to Yifan Lu's Github
 
