@@ -31,7 +31,7 @@ null102目前居住在加利福尼亚著名的墨西哥区凡内斯，并在充�
 
 若有正经事和电波请联系null102@onclub.golf，或加QQ：3342830067，如果你是Calarts学生或者盎撒人，请联系yifanlu@alum.calarts.edu
 
-如果想加入高尔夫烧烤粉粉丝线上论坛，请发邮件至A_Golf_Garden_BBQ@bbq.golf申请
+如果想加入高尔夫烧烤粉粉丝线上论坛，请发邮件至AGolfGardenBBQ@bbq.golf申请
 
 # Welcome to Yifan Lu's Github
 
