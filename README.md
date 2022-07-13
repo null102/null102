@@ -1,3 +1,5 @@
+简体中文 ｜ [English](./README.En.md)
+
 # 欢迎来到null102的Github主页
 
 null102目前居住在加利福尼亚著名的墨西哥区凡内斯，并在阳光灿烂的克拉利塔求学。
@@ -29,31 +31,6 @@ null102目前居住在加利福尼亚著名的墨西哥区凡内斯，并在阳�
 
 若有正经事和电波请联系null102@onclub.golf，或加Discord：null102#8852，或者yifanlu@alum.calarts.edu
 
-# Welcome to Yifan Lu's Github
 
-Yifan Lu is currently residing at Van Nuys, CA, and he goes to California Institute of the Arts for Music Tech Degree.
-
-## Skills
-
-Yifan Lu (wants to) specialize in visual, vst and audio software development, and audio hardware tinkering
-
-## Tools
-
-Tools I use are wack:
-
-- Reaper (JSFX)
-- Renoise (Lua)
-- Max/Msp/Jitter
-- Processing
-- TouchDesigner
-- Wwise
-- Unity
-- JUCE API
-
-## How to find me
-
-to see my works, please go to yifanlu.page
-
-for contact, please email yifanlu@alum.calarts.edu
 
 
