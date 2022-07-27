@@ -1,4 +1,4 @@
-简体中文 ｜ [English](README.en.md
+简体中文 ｜ [English](README.en.md)
 
 # 欢迎来到null102的Github主页
 
