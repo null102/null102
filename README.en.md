@@ -1,3 +1,5 @@
+[简体中文](README.md) ｜ English
+
 # Welcome to Yifan Lu's Github
 
 Yifan Lu is currently residing at Van Nuys, CA, and he goes to California Institute of the Arts for Music Tech Degree.
