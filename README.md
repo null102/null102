@@ -1,6 +1,6 @@
-简体中文 ｜ [English](README.en.md)
+English ｜ [简体中文](README.ch.md)
 
-正在试图以低姿态巡航
+I guess living in the US as an developer requires me speaking some English :(
 
 
 
