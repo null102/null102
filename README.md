@@ -8,6 +8,14 @@ To see my Web front-page, please visit https://yifanlu.page, and you'll be able 
 
 To see what's going on in my Chinese World, please visit https://null102.zone; come visit https://onclub.golf and you'll find him and his homie there if we speak the same language.
 
+## What is null102 and who is Yifan Lu is
 
+Yifan Lu is currently a student at [California Institute of the Arts](https://calarts.edu) and he's been having **ADHD** for his whole life. If you see
+a username called null102 anywhere on Internet, it's mostly likely Yifan Lu's ID. Yifan Lu also unses null102 as his name in the **Chinese Underground
+Culture Label [ONCLUB](https://onclub.golf).**
 
+The https://yifanlu.page website was initially https://yifanlu.github.io which belongs to his another Github account called Yifan Lu, then transferred to
+null102 since he feels switching between two Github accounts is bit annoying.
+
+I planned to just use my real name in the English World cuz that's most people do in here throughout my observation. But new I think having my Github ID called null102 outside Chinese World is fine also.
 
