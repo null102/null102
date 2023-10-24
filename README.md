@@ -16,6 +16,3 @@ Culture Label [ONCLUB](https://onclub.golf).**
 
 The https://yifanlu.page website was initially https://yifanlu.github.io which belongs to his another Github account called Yifan Lu, then transferred to
 null102 since he feels switching between two Github accounts is bit annoying.
-
-I planned to just use my real name in the English World cuz that's most people do in here throughout my observation. But new I think having my Github ID called null102 outside Chinese World is fine also.
-
