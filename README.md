@@ -1,6 +1,6 @@
 English ｜ [简体中文](README.zh-cn.md)
 
-# This is Yifan Lu's temporary digital warehouse
+# This is Yifan Lu's Temporary Digital Warehouse
 
 Yifan Lu is still struggling on constructing his own system, so do not blame him too much is anything on this site is empty or anything went wrong.
 
